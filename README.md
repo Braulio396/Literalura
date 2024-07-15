@@ -21,3 +21,11 @@ Al ejecutar la aplicación, se mostrará un menú en la consola. Selecciona la o
 4. **Listar autores vivos en un determinado año**: Ingresa el año para ver los autores vivos en ese año.
 5. **Listar libros por idioma**: Lista los libros según el idioma.
 0. **Salir**: Finaliza el programa.
+
+## Requisitos
+
+- Java 11 o superior
+- Spring Boot 2.5 o superior
+- Conexión a internet para acceder a la API de Gutendex
+- Base de datos SQL (ej. MySQL, PostgreSQL)
+- Maven 3.6 o superior
