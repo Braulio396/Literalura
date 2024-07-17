@@ -1,6 +1,6 @@
 # LiterAlura
 
-LiterAlura es una aplicación de consola en Java con Spring Boot que interactúa con la API de Gutendex para buscar y gestionar libros.
+LiterAlura es una aplicación de consola en Java desarrollada con Spring Boot que interactúa con la API de Gutendex para buscar y gestionar libros. Esta aplicación permite realizar búsquedas de libros, listar libros y autores registrados, y otras funcionalidades relacionadas con la gestión de libros.
 
 ## Funcionalidades
 
